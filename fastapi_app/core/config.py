@@ -61,6 +61,7 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
+print(settings)
 
 
 def create_dirs():
